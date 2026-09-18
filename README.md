@@ -18,3 +18,4 @@ Senior Oracle Database Administrator with 10+ years running enterprise Oracle en
 ## Selected repositories
 
 - [oracle-dba-toolkit](https://github.com/Travis-Nintai/oracle-dba-toolkit) — daily monitoring utilities: health checks, tablespace pressure, sessions, backup status
+- [oracle-performance-tuning](https://github.com/Travis-Nintai/oracle-performance-tuning) — AWR/ASH analysis, top-SQL and session diagnostics, high-CPU troubleshooting runbook
