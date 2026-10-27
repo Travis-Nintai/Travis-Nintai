@@ -19,6 +19,7 @@ Senior Oracle Database Administrator with 10+ years running enterprise Oracle en
 
 - [oracle-dba-toolkit](https://github.com/Travis-Nintai/oracle-dba-toolkit): daily monitoring utilities, health checks, tablespace pressure, sessions, backup status
 - [oracle-performance-tuning](https://github.com/Travis-Nintai/oracle-performance-tuning): AWR/ASH analysis, top-SQL and session diagnostics, high-CPU troubleshooting runbook
+- [oracle-rman-backup-recovery](https://github.com/Travis-Nintai/oracle-rman-backup-recovery): RMAN backup strategy, recovery readiness checks, restore validation workflow, and point-in-time recovery runbook
 - [postgresql-dba-toolkit](https://github.com/Travis-Nintai/postgresql-dba-toolkit): PostgreSQL health checks, blocking-session monitor, backup and recovery, and a Bash runner with logging and exit codes
 - [sqlserver-dba-toolkit](https://github.com/Travis-Nintai/sqlserver-dba-toolkit): SQL Server health checks, backup verification from msdb history, log-shipping monitoring, blocking and deadlock analysis, wait statistics, index maintenance, TempDB checks, and Always On monitoring
 - [mysql-dba-toolkit](https://github.com/Travis-Nintai/mysql-dba-toolkit): MySQL health check, replication status, and mysqldump backup with binary log point-in-time recovery, built and tested as a local lab
